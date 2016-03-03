@@ -1,4 +1,4 @@
-## [anchorTap]()
+## [anchorTap](http://gopomoinc.github.io/anchorTap/)
 
 A simple URL update tap module based on Bootstrap tap
 
@@ -20,4 +20,4 @@ $(function(){
 </script>
 ```
 
-![anchorTab]()
+![anchorTab](http://gopomoinc.github.io/anchorTap/img/ezgif-599129714.gif)
