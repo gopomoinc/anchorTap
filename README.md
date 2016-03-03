@@ -12,7 +12,12 @@ Include Bootstrap JS and anchorTap.js
 <script src="js/anchorTab.js"></script>
 <script type="text/javascript">
 $(function(){
-  anchorTab.init({});
+  // default tab selector is .nav, but can given any selector.
+  anchorTab.init({
+    tabSelector: '.nav'
+  });
 });
 </script>
 ```
+
+![anchorTab]()
